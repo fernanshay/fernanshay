@@ -1,4 +1,4 @@
 - 👋 Hello everyone, I’m @fernanshay!
-- 🚀 I love physics and art in general :)
-- 📚 I’m currently learning software engineering, but actually I love to learn of everything I can
-- 📩 If you want to get in touch with me, you can send me an email at negocios@fernanshay.com :)
+- 🚀 I love technology, also physics and art :)
+- 📚 I’m currently learning software engineering and making projects.
+- 📩 If you want to get in touch with me for business, you can email me at negocios@fernanshay.com :)
